@@ -4,9 +4,10 @@
 Image and other resource files follow the `type - keywords - source` generic structure.
 
 Types are:
-- Illustration: Excalidraw drawings used to illustrate a point e.g.: None as yet.
+- Illustration: Excalidraw drawings used to illustrate a point e.g.: [[Illustration - joining Discord community.svg]]
 - Picture: Typically an AI generated image or other non-photo from the Internet. e.g.: [[Picture - man writing at PC - midjourney.png]]
 - Photo: A real photo e.g. None as yet.
+- Screenshot: e.g. [[Screenshot - Excalidraw splash screen.png]]
 
 Each page in the Wiki is an Excalidraw file, even if the drawing features are not always utilized. When you create a new note in the Vault, Templater automatically generates an Excalidraw template file with the correct document properties, along with a blank SVG file. When naming your files, use clear and descriptive titles that naturally reflect the content of the note. Feel free to use spaces and capital letters to ensure the title is as user-friendly and understandable as possible.​
 

@@ -22,7 +22,10 @@ excalidraw-open-md: true
 ## 4. Script Library
 - Waiting for community contribution
 
-## 5. Troubleshooting
+## 5. Examples and Template
+- [[Hybrid markdown-excalidraw note template]]
+
+## 6. Troubleshooting
 - [[Compatibility Issues - Plugins to Watch Out For]]
 - [[Troubleshooting Performance Issues]]
 
