@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": false,
+  "showRibbon": false,
+  "newFileLocation": "current"
+}
