@@ -11,7 +11,7 @@ Welcome to the Excalidraw Plugin Wiki! I'm excited to have you contribute to our
 
 ## Contribution Process
 
-1. **Fork and Clone the Vault**: Fork the Excalidraw Wiki repository on GitHub and clone it to your local device. This will give you a local copy of the Obsidian vault to work on.
+1. **Fork and Clone the Vault**: Fork the [Excalidraw-Wiki repository](https://github.com/zsviczian/excalidraw-wiki) on GitHub and clone it to your local device. This will give you a local copy of the Obsidian vault to work on.
 2. **Verify Your Changes**: Review your changes and addition to ensure they are accurate and meet the guidelines.
 4. **Submit a Pull Request**: Once you're satisfied with your changes, submit a pull request (PR) with a clear description of what you’ve done. Reference any relevant issues or discussions.
 
