@@ -7,6 +7,11 @@ excalidraw-open-md: true
 excalidraw-export-transparent: true
 
 ---
+<%*
+  if(tp.file.title === "Excalidraw Template") {
+    throw(new Error("Aborting Templater because it is cannibalizing it's own template (likely due to Obsidian Sync to a new device)"));
+  }
+%>
 # [[<% tp.file.title%>]]
 
 ![[<% tp.file.title%>.svg]]

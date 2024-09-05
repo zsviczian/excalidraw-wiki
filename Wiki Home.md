@@ -31,8 +31,8 @@ excalidraw-open-md: true
 
 ## 6. Developer Docs
 - [[Excalidraw Plugin Release Strategy]]
+- [[Obsidian Templater Tricks]]
 - [[Debugging Plugins]]
-
 
 %%
 # Excalidraw Data
