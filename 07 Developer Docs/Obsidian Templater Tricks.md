@@ -1,5 +1,5 @@
 %% <%* throw(new Error("Cannibalization")); %> %%
-# [[Templater Tricks]]
+# [[Obsidian Templater Tricks]]
 **see also**:: [[Hybrid markdown-excalidraw note template]]
 You can find Obsidian Templater on [GitHub](https://github.com/SilentVoid13/Templater) and in [Community Plugins](obsidian://show-plugin?id=templater-obsidian).
 
