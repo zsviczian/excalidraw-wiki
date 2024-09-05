@@ -7,6 +7,7 @@ excalidraw-autoexport: svg
 excalidraw-export-transparent: true
 ---
 ![Which release channel is the right for you?](https://youtu.be/2poSS-Z91lY)
+
 ![[Excalidraw Plugin Release Strategy.svg]]
 
 %%

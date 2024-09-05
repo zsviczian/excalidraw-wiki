@@ -10,6 +10,7 @@ excalidraw-open-md: true
 
 ## 1. Getting Started
 ![Getting Started With Excalidraw from Scratch](https://youtu.be/QKnQgSjJVuc)
+
 - [[Excalidraw 2 Million Downloads Mega Showcase]]
 - [[Catalogue of Videos]]
 
