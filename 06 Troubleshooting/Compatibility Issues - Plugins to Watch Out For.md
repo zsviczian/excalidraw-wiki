@@ -21,6 +21,7 @@ Here's a list of plugins that have caused performance issues or other problems w
 - [Minimal Theme](https://github.com/kepano/obsidian-minimal)
   - Text in Excalidraw menus not readable, buttons are black. You can turn on Dynamic Styling in Excalidraw plugin settings under Appearance and Behavior > Theme and Styling which will override Minimal Theme's styling for Excalidraw.
   - Performance impact, when Excalidraw and Minimal Theme are both installed Obsidian becomes laggier. 
+  - Size parameter of embedded Excalidraw drawing doesn't work with Minimal Theme Settings enabled [#2000](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2000)
 - [Header Enhance](https://github.com/HoBeedzc/obsidian-header-enhancer-plugin): when Auto numbering enabled toggle between Excalidraw and Markdown view mode does not function. [More info](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367/114)
 
 
