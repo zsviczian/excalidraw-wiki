@@ -11,28 +11,28 @@ excalidraw-export-transparent: true
 
 Excalidraw document properties control Excalidraw's behavior at a file level. These properties override plugin settings for the document. Properties offer some very powerful file level customization opportunities or even, like in the case of "onload-script" scripted automation.
 
-| Property                      | Type     | Description |
-| ----------------------------- | -------- | ----------- |
-| excalidraw-autoexport         | text     |             |
-| excalidraw-border-color       | text     |             |
-| excalidraw-css                | text     |             |
-| excalidraw-default-mode       | text     |             |
-| excalidraw-embeddable-theme   | text     |             |
-| excalidraw-export-dark        | checkbox |             |
-| excalidraw-export-embed-scene | checkbox |             |
-| excalidraw-export-padding     | number   |             |
-| excalidraw-export-pngscale    | number   |             |
-| excalidraw-export-transparent | checkbox |             |
-| excalidraw-font               | text     |             |
-| excalidraw-font-color         | text     |             |
-| excalidraw-link-brackets      | checkbox |             |
-| excalidraw-link-prefix        | text     |             |
-| excalidraw-linkbutton-opacity | number   |             |
-| excalidraw-mask               | checkbox |             |
-| excalidraw-onload-script      | text     |             |
-| excalidraw-open-md            | checkbox |             |
-| excalidraw-plugin             | text     |             |
-| excalidraw-url-prefix         | text     |             |
+| Property                      | Type     | Description                                                                                                                                                                                                                                                          | Example                                                               |
+| ----------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| excalidraw-autoexport         | text     | Override autoexport settings for this file. Valid values are: `none \| both \| png \| svg`<br>                                                                                                                                                                       | png                                                                   |
+| excalidraw-border-color       | text     | This key applies to Markdown Embeds. You can control the appearance of the embedded markdown file on a file by file bases by adding the this frontmatter key to your markdown document. Valid values are: css-color-name\|\#HEXcolor\|any-other-html-standard-format | SteelBlue                                                             |
+| excalidraw-css                | text     | This key applies to Markdown Embeds. You can control the appearance of the embedded markdown file on a file by file bases by adding the this front matter keys to your markdown document. Valid values are: "css-filename\|css snippet"                              | ""                                                                    |
+| excalidraw-default-mode       | text     | Specifies how Excalidraw should open by default. Valid values are: view\|zen                                                                                                                                                                                         | view                                                                  |
+| excalidraw-embeddable-theme   | text     | Override embeddable's theme plugin-settings for this file. 'auto' will match the Excalidraw theme, 'default' will match the Obsidian theme. Valid values are: `dark \| light \| auto \| default`<br>                                                                 | auto                                                                  |
+| excalidraw-export-dark        | checkbox | If this key is present it will override the default excalidraw embed and export setting. true == Dark mode / false == light mode                                                                                                                                     | true                                                                  |
+| excalidraw-export-embed-scene | checkbox | If this key is present it will override the default excalidraw embed and export setting.                                                                                                                                                                             | false                                                                 |
+| excalidraw-export-padding     | number   | If this key is present it will override the default excalidraw embed and export setting. This only affects both SVG and PNG export. Specify the export padding for the image.                                                                                        | 5                                                                     |
+| excalidraw-export-pngscale    | number   | If this key is present it will override the default excalidraw embed and export setting. This only affects export to PNG. Specify the export scale for the image. The typical range is between 0.5 and 5, but you can experiment with other values as well.          | 1                                                                     |
+| excalidraw-export-transparent | checkbox | If this key is present it will override the default excalidraw embed and export setting. true == Transparent / false == with background                                                                                                                              | true                                                                  |
+| excalidraw-font               | text     | This key applies to Markdown Embeds. You can control the appearance of the embedded markdown file on a file by file bases by adding the this frontmatter key to your markdown document. Valid values are: Virgil\|Cascadia\|font_file_name.extension                 | Virgil                                                                |
+| excalidraw-font-color         | text     | This key applies to Markdown Embeds. You can control the appearance of the embedded markdown file on a file by file bases by adding the this frontmatter key to your markdown document. Valid values are: css-color-name\|\#HEXcolor\|any-other-html-standard-format | SteelBlue                                                             |
+| excalidraw-link-brackets      | checkbox | Set to true, if you want to display [\[square brackets]] around the links in Text Elements                                                                                                                                                                           | true                                                                  |
+| excalidraw-link-prefix        | text     | Set custom prefix to denote text element containing a valid internal link. Set to empty string if you do not want to show a prefix                                                                                                                                   | "📍"                                                                  |
+| excalidraw-linkbutton-opacity | number   | The opacity of the blue link button in the top right of the element overriding the respective setting in plugin settings. Valid values are between 0 and 1, where 0 means the button is transparent.                                                                 | 0.5                                                                   |
+| excalidraw-mask               | checkbox | If this key is present the drawing will be handled as a mask to crop an image.                                                                                                                                                                                       | true                                                                  |
+| excalidraw-onload-script      | text     | The value of this field will be executed as javascript code using the Script Engine environment. Use this to initiate custom actions or logic when loading your drawing.                                                                                             | "new Notice(`Hello World!\n\nFile: ${ea.targetView.file.basename}`);" |
+| excalidraw-open-md            | checkbox | If this key is present the file will be opened as a markdown file in the editor                                                                                                                                                                                      | true                                                                  |
+| excalidraw-plugin             | text     | Denotes an excalidraw file. If key is not present, the file will not be recognized as an Excalidarw file. Valid values are 'parsed' and 'raw'                                                                                                                        | parsed                                                                |
+| excalidraw-url-prefix         | text     | Set custom prefix to denote text element containing a valid external link. Set to empty string if you do not want to show a prefix                                                                                                                                   | "🌐"                                                                  |
 
 
 %%
