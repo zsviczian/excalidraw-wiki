@@ -8,7 +8,7 @@ excalidraw-export-transparent: true
 
 ---
 # [[Excalidraw Markdown File Structure]]
-**Downloadable Storyboard:** [Excalidraw File Structure Explained](https://excalidraw.com/)
+[Downloadable storyboard on Excalidraw.com](https://excalidraw.com/#json=MSQ4UcwPcETmLdSaKFjD_,40CTKWiOAb-BvmtYYHyVHQ)
 
 ![Explaining Links, Transclusions and Embedding in Obsidian Excalidraw](https://youtu.be/CpSwwv1CPMM)
 
@@ -43,7 +43,7 @@ Finally, I offer practical tips for advanced features like block referencing, La
 - [48:19](https://www.youtube.com/watch?v=CpSwwv1CPMM&t=2899s) Transcluding Animated GIFs 
 - [50:01](https://www.youtube.com/watch?v=CpSwwv1CPMM&t=3001s) Summary & Closing remarks
 
-## Full Text
+## Video Transcript
 Hey Everyone! Zsolt here. Welcome to Visual PKM!
 
 Today we are going to learn about the File Structure of Excalidraw in Obsidian.
