@@ -58,6 +58,11 @@ The palette in the file above looks like this:
 ![[Screenshot - Demo Palette.png|200]]
 
 The colors in the first row of the palette are automatically generated. The two grays are tinted based on the middle color of the first first row of your palette: "d" in the screenshot above.
+
+### The Palettes Folder
+The palette file is a simple markdown file placed in the Palettes Folder. By Default it is the `Excalidraw/Palettes` folder. After downloading the [[Palette Loader Script]] you need to run it from Obsidian Command Palette. At the first run, the script will register a custom settings section at the bottom of Excalidraw Plugin Settings. You may configure the palette folder here. Note, that foler names are CasE seNSitIVe. You may also define the light and dark gray values used by the script to create the tinted grays in the palette as mentioned above.
+
+![[Screenshot - Plugin Settings - Palette Loader Settings.jpeg]]
 ## Designing your Palette
 You can design your palette at http://paletton.com/
 ![[Screenshot - Paletton Config Screen.jpeg]]
