@@ -1,0 +1,38 @@
+name: "Wiki Contribution"
+description: "Use this form to submit content for the Excalidraw Plugin Wiki."
+title: "New Wiki Page Contribution: [PAGE TITLE]"
+labels: ["contribution"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the Excalidraw Plugin Wiki! Please make sure to follow the guidelines below:
+        
+        - **Use the Obsidian default stylesheet and light theme** for screenshots.
+        - **Use `[[Wiki links]]`** to link to existing wiki pages by their title, rather than using web URLs.
+        - [Read the full Contributor Guidelines here](https://excalidraw-obsidian.online/Hobbies/Excalidraw+Blog/WIKI/00+Housekeeping/Contributor+Guidelines).
+
+  - type: input
+    id: page_title
+    attributes:
+      label: "Title of the New Wiki Page"
+      description: "Enter the title of the page you're contributing."
+      placeholder: "e.g., How to Use Custom Shapes in Excalidraw"
+      required: true
+
+  - type: input
+    id: proposed_location
+    attributes:
+      label: "Proposed Location in the Wiki"
+      description: "Specify the folder where this page should be added. Review the existing structure in the Wiki for consistency."
+      placeholder: "e.g., Tutorials/Advanced Topics"
+      required: true
+
+  - type: textarea
+    id: page_content
+    attributes:
+      label: "Page Content"
+      description: "Write the content for the page here. Include links using `[[Wiki links]]` and attach relevant code snippets or screenshots as needed."
+      placeholder: "Provide the content for your wiki page..."
+      render: shell
+      required: true
