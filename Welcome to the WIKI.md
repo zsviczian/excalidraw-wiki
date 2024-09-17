@@ -30,8 +30,9 @@ If you’re interested in contributing to the wiki, please follow these steps:
 1. **[Contributor Guidelines](Contributor%20Guidelines.md)**: Read our guidelines for contributing to ensure a smooth process.
 2. **Check Existing Documentation**: Review the current documentation to understand what’s already covered.
 3. **Identify Areas for Improvement**: If you find areas that could be improved or additional content that would be helpful, let us know!
-4. **Fork the [Excalidraw-Wiki GitHub repository](https://github.com/zsviczian/excalidraw-wiki)** hosting this Obsidian Vault.
-5. Make the edits and **submit a Pull Request** with your changes.
+4. Chose your path
+  - **Quick contribution**: [Click here to open a new issue](https://github.com/zsviczian/excalidraw-wiki/issues/new?assignees=&labels=contribution&projects=&template=wiki-contribution.yaml&title=New+Wiki+Page+Contribution%3A+%5BPAGE+TITLE%5D) to suggest a new page or an edit. 
+  - **Expert path**:  **Fork the [Excalidraw-Wiki GitHub repository](https://github.com/zsviczian/excalidraw-wiki)** hosting this Obsidian Vault. Make the edits and **submit a Pull Request** with your changes.
 
 I look forward to collaborating with you and enhancing the Excalidraw Plugin experience for all Obsidian users!
 
