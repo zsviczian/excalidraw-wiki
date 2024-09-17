@@ -18,7 +18,6 @@ body:
       label: "Title of the New Wiki Page"
       description: "Enter the title of the page you're contributing."
       placeholder: "e.g., How to Use Custom Shapes in Excalidraw"
-      required: true
 
   - type: input
     id: proposed_location
@@ -26,7 +25,6 @@ body:
       label: "Proposed Location in the Wiki"
       description: "Specify the folder where this page should be added. Review the existing structure in the Wiki for consistency."
       placeholder: "e.g., Tutorials/Advanced Topics"
-      required: true
 
   - type: textarea
     id: page_content
@@ -34,5 +32,3 @@ body:
       label: "Page Content"
       description: "Write the content for the page here. Include links using `[[Wiki links]]` and attach relevant code snippets or screenshots as needed."
       placeholder: "Provide the content for your wiki page..."
-      render: shell
-      required: true
