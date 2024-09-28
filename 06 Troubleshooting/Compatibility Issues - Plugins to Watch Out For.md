@@ -7,7 +7,7 @@ excalidraw-open-md: true
 ---
 # [[Compatibility Issues - Plugins to Watch Out For]]
 
-Here's a list of plugins that have caused performance issues or other problems when used in conjunction with Excalidraw:
+Here's a list of plugins and themes that have caused performance issues or other problems when used in conjunction with Excalidraw:
 - [Typing Transformer](https://github.com/aptend/typing-transformer-obsidian): text in embedded markdown files is blurred. [#1990](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/1990)
 - [Columns](https://github.com/tnichols217/obsidian-columns): Excalidraw drawings do not render in markdown. [#1896](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/1896)
 - [Templater](https://github.com/SilentVoid13/Templater)
@@ -23,6 +23,7 @@ Here's a list of plugins that have caused performance issues or other problems w
   - Performance impact, when Excalidraw and Minimal Theme are both installed Obsidian becomes laggier. 
   - Size parameter of embedded Excalidraw drawing doesn't work with Minimal Theme Settings enabled [#2000](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2000)
 - [Header Enhance](https://github.com/HoBeedzc/obsidian-header-enhancer-plugin): when Auto numbering enabled toggle between Excalidraw and Markdown view mode does not function. [More info](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367/114)
+- [Encore Theme](https://github.com/Carbonateb/obsidian-encore-theme/issues): The Excalidraw tools panel is not visible.
 
 
 %%

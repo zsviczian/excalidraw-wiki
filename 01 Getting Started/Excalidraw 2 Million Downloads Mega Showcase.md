@@ -7,6 +7,7 @@ excalidraw-autoexport: svg
 ---
  
  ![2M Download Mega Showcase](https://youtu.be/P_Q6avJGoWI)
+ 
  ![[Excalidraw 2 Million Downloads Mega Showcase.svg]]
 %%
 # Excalidraw Data
@@ -314,7 +315,7 @@ d7bc341591e4f172e2dd15e8e849cd60494a4c8e: [[Icon - Rocket to the moon - Flaticon
 483a7de4574efc7c0c63ce1ee7c743c6ae0a1f92: [[Icon - circular-saw, power tool - Excalidraw]]
 24469f80af3223fc1e93b803856f37df66d73d62: [[Icon - milestones, stepping stones to destination, journey, process, roadmap - Flaticon.svg]]
 076ab425394c641a906c213363961f342e835cc9: [[Icon - pink highlighter pen - Flaticon.svg]]
-fc3b02528fbe5d284451a855b9a27f021f3393bd: [[Icon - stickfigure, fresh, energized, awake, dancing, jumping - flaticon.svg]]
+fc3b02528fbe5d284451a855b9a27f021f3393bd: [[Stickfigure - fresh, energized, awake, dancing, jumping - flaticon.svg]]
 a4820d4f131d228f22110a0e8b0c0ef920f7457e: [[Icon - balloons - flaticon.svg]]
 40abe33decd99910875ac7f5e366eb5854657ec8: https://i.ytimg.com/vi/5ZlPOkQIS94/mqdefault.jpg
 b5e0435923d4fe677e87c1aa5fd1c00c59aff352: https://i.ytimg.com/vi/6PLGHBH9VZ4/mqdefault.jpg
