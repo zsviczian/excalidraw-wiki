@@ -6,7 +6,7 @@ excalidraw-autoexport: svg
 excalidraw-open-md: true
 
 ---
-# [[Color Palette]]
+# [[WIKI/03 Advanced Usage/Color Palette]]
 You can define your custom color palettes. The steps are a bit technical, however, once you've set up the Color Palette, you can [[Create your Template]], load the palette to the template, and all your new Excalidraw documents will have your custom color palette.
 
 You will find the [Palette Loader Script](https://github.com/zsviczian/obsidian-excalidraw-plugin/blob/master/ea-scripts/Palette%20loader.md) in the Excalidraw Automate [[Script Library]].

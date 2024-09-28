@@ -8,7 +8,7 @@ excalidraw-export-transparent: true
 
 ---
 
-# [[Comman Palette Actions]]
+# [[Command Palette Actions]]
 
 | Command                                                                                         | Description | Condition when Visible |
 | ----------------------------------------------------------------------------------------------- | ----------- | ---------------------- |
