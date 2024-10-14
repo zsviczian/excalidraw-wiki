@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/guideline/style
+---
 # [[Proposed Content Structure and File Naming Conventions]]
 
 ## File Naming Conventions

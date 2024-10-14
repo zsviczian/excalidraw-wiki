@@ -9,6 +9,8 @@ excalidraw-autoexport: svg
 excalidraw-export-transparent: true
 cssclasses:
   - ex-pageheight
+aliases:
+  - wiki/about
 ---
 ![[About Obsidian-Excalidraw.svg]]
 

@@ -5,7 +5,8 @@ tags:
 excalidraw-autoexport: svg
 excalidraw-open-md: true
 excalidraw-export-transparent: true
-
+aliases:
+  - wiki/properties
 ---
 # [[Document Properties]]
 

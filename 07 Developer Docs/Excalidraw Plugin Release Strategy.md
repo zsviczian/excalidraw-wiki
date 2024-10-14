@@ -5,6 +5,8 @@ tags:
 excalidraw-export-dark: false
 excalidraw-autoexport: svg
 excalidraw-export-transparent: true
+aliases:
+  - releases
 ---
 ![Which release channel is the right for you?](https://youtu.be/2poSS-Z91lY)
 

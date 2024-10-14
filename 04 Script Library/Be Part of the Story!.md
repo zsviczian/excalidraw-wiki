@@ -5,7 +5,8 @@ tags:
 excalidraw-autoexport: svg
 excalidraw-open-md: true
 excalidraw-export-transparent: true
-
+aliases:
+  - wiki/scripts
 ---
 # [[Be Part of the Story!]]
 

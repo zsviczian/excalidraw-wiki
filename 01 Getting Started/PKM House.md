@@ -1,3 +1,7 @@
+---
+aliases:
+  - pkm-house
+---
 
 ![The Playful PKM Castle](https://www.youtube.com/embed/X0AmZGQ_7z4)
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/advanced
+---
 - [[Command Palette Actions]]
 - [[Document Properties|Excalidraw Markdown Document Properties]]
 - [[Excalidraw Markdown File Structure]]

@@ -4,7 +4,8 @@ tags:
   - excalidraw
 excalidraw-autoexport: svg
 excalidraw-open-md: true
-
+aliases:
+  - wiki/guidelines/how-to
 ---
 # [[Contributing to the Excalidraw Wiki]]
 ![[How-to contribute to the Wiki  (Step-by-Step).svg]]

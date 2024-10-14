@@ -4,6 +4,8 @@ tags:
   - excalidraw
 excalidraw-export-dark: false
 excalidraw-autoexport: svg
+aliases:
+  - wiki/showcase
 ---
  
  ![2M Download Mega Showcase](https://youtu.be/P_Q6avJGoWI)

@@ -6,6 +6,8 @@ excalidraw-autoexport: svg
 excalidraw-export-transparent: true
 excalidraw-open-md: true
 excalidraw-export-padding: 20
+aliases:
+  - wiki/welcome
 ---
 # [[Welcome to the WIKI]]
 

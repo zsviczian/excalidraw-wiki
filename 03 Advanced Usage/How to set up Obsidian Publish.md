@@ -8,6 +8,8 @@ excalidraw-export-transparent: true
 excalidraw-link-prefix: "🔗"
 cssclasses:
   - ex-pageheight
+aliases:
+  - wiki/publish
 ---
 ![[How to set up Obsidian Publish.svg]]
 
