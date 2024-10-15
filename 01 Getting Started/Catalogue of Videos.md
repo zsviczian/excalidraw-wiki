@@ -6,6 +6,8 @@ excalidraw-export-dark: false
 excalidraw-autoexport: svg
 excalidraw-link-prefix: "🔗"
 excalidraw-export-transparent: false
+aliases:
+  - wiki/catalogue
 ---
 ![[Catalogue of Videos.svg]]
 

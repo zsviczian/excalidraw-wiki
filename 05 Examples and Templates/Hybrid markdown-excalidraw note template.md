@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/examples
+---
 %% <%* throw(new Error("Cannibalization")); %> %%
 This is an advanced version of the template Nicole uses in her video:  
 ![Why I changed all my templates](https://youtu.be/zmgqMZi6QL8?t=950).

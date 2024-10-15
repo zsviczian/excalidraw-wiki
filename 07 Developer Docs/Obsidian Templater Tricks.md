@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/templates
+---
 %% <%* throw(new Error("Cannibalization")); %> %%
 # [[Obsidian Templater Tricks]]
 **see also**:: [[Hybrid markdown-excalidraw note template]]

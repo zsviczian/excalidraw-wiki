@@ -6,6 +6,8 @@ excalidraw-autoexport: svg
 excalidraw-open-md: true
 cssclasses:
   - ex-64em
+aliases:
+  - wiki/fonts
 ---
 ![[Fonts.svg]]
 

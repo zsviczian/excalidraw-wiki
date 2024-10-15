@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/images
+---
 [[#Block Reference Images]]
 [[#Image Fragments]]
 

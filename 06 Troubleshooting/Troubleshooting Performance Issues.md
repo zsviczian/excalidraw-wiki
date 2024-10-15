@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/troubleshooting
+---
 # Troubleshooting Excalidraw Performance Issues
 
 While I continuously work on optimizing Excalidraw with regular updates and improvements, I recognize that the plugin can be resource-intensive. If you notice that Excalidraw is affecting Obsidian's performance or experiencing lag, here are some steps you can take to improve the situation:

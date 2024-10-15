@@ -4,6 +4,8 @@ tags:
   - excalidraw
 excalidraw-autoexport: svg
 excalidraw-open-md: true
+aliases:
+  - wiki/home
 ---
 # [[Wiki Home]]
 ![[Wiki Home.svg]]

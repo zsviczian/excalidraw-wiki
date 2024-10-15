@@ -1,3 +1,7 @@
+---
+aliases:
+  - wiki/guidelines
+---
 # [[Contributor Guidelines]]
 
 Welcome to the Excalidraw Plugin Wiki! I'm excited to have you contribute to our community-driven documentation.
