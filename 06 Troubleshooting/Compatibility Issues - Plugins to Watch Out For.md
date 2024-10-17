@@ -26,6 +26,8 @@ Here's a list of plugins and themes that have caused performance issues or other
   - Size parameter of embedded Excalidraw drawing doesn't work with Minimal Theme Settings enabled [#2000](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2000)
 - [Header Enhance](https://github.com/HoBeedzc/obsidian-header-enhancer-plugin): when Auto numbering enabled toggle between Excalidraw and Markdown view mode does not function. [More info](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367/114)
 - [Encore Theme](https://github.com/Carbonateb/obsidian-encore-theme/issues): The Excalidraw tools panel is not visible.
+- [Style Settings plugin](https://github.com/mgmeyers/obsidian-style-settings/issues/115#issuecomment-2416514409). Navigation in Obsidian settings is sluggish. [More info](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/1826)
+- [OmniSearch](https://github.com/scambier/obsidian-omnisearch) Significant performance degradation. [More info](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2055#issuecomment-2401376219)
 
 
 %%
