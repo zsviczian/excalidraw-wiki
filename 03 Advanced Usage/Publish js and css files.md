@@ -21,7 +21,7 @@ div.markdown-embed {
 
 div.excalidraw-svg {
 	/*width: fit-content;*/
-	height: 100%>
+	height: 100%;
 }
 
 svg.excalidraw-svg {
