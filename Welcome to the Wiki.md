@@ -9,7 +9,7 @@ excalidraw-export-padding: 20
 aliases:
   - wiki/welcome
 ---
-# [[Welcome to the WIKI]]
+# [[Welcome to the Wiki]]
 
 ![[Welcome to the WIKI.svg]]
 
@@ -23,7 +23,7 @@ Note that the [Obsidian-Excalidraw Plugin](https://github.com/zsviczian/obsidian
 
 ## Contributing
 
-This project stands or falls on community contribution. Without Your contribution this wiki is likely going to be very empty. Help improve and expand our documentation. Whether you want to fix typos, add new tutorials, or improve existing content, your help is greatly appreciated!
+This project stands or falls on community contribution. Without your contribution this wiki is likely going to be very empty. Help improve and expand our documentation. Whether you want to fix typos, add new tutorials, or improve existing content, your help is greatly appreciated!
 
 ### How to Contribute
 
@@ -32,7 +32,7 @@ If you’re interested in contributing to the wiki, please follow these steps:
 1. **[Contributor Guidelines](Contributor%20Guidelines.md)**: Read our guidelines for contributing to ensure a smooth process.
 2. **Check Existing Documentation**: Review the current documentation to understand what’s already covered.
 3. **Identify Areas for Improvement**: If you find areas that could be improved or additional content that would be helpful, let us know!
-4. Chose your path
+4. Choose your path:
   - **Quick contribution**: [Click here to open a new issue](https://github.com/zsviczian/excalidraw-wiki/issues/new?assignees=&labels=contribution&projects=&template=wiki-contribution.yaml&title=New+Wiki+Page+Contribution%3A+%5BPAGE+TITLE%5D) to suggest a new page or an edit. 
   - **Expert path**:  **Fork the [Excalidraw-Wiki GitHub repository](https://github.com/zsviczian/excalidraw-wiki)** hosting this Obsidian Vault. Make the edits and **submit a Pull Request** with your changes.
 
