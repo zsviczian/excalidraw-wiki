@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/publish/setup
+  - WIKI/03+Advanced+Usage/Publish+js+and+css+files
+permalink: wiki/publish/setup
 ---
 Create two files in your vault root: `publish.css` and `publish.js`. These files won't be editable inside Obsidian, unless you install a dedicated plugin for that. Use an external text editor to edit the files. You can also download these files from [here](https://gist.github.com/zsviczian/0bb31aa2d08ba689c14158e82cbbda5a)
 # publish.css

@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/debugging
+  - WIKI/07+Developer+Docs/Debugging+Plugins
+permalink: wiki/debugging
 ---
 This is an absolutely must read resource: [https://www.moritzjung.dev/obsidian-collection/plugin-dev/debuggingandprofiling/](https://www.moritzjung.dev/obsidian-collection/plugin-dev/debuggingandprofiling/ "https://www.moritzjung.dev/obsidian-collection/plugin-dev/debuggingandprofiling/")
 Plus this [article](https://alan.norbauer.com/articles/browser-debugging-tricks)by [Fevol](https://github.com/Fevol)

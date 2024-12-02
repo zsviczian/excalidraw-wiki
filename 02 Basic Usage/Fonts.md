@@ -7,7 +7,8 @@ excalidraw-open-md: true
 cssclasses:
   - ex-64em
 aliases:
-  - wiki/fonts
+  - WIKI/02+Basic+Usage/Fonts
+permalink: wiki/fonts
 ---
 ![[Fonts.svg]]
 

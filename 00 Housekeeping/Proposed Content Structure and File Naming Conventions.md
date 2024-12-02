@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/guideline/style
+  - WIKI/00+Housekeeping/Proposed+Content+Structure+and+File+Naming+Conventions
+permalink: wiki/guidelines/style
 ---
 # [[Proposed Content Structure and File Naming Conventions]]
 

@@ -5,7 +5,8 @@ tags:
 excalidraw-autoexport: svg
 excalidraw-open-md: true
 aliases:
-  - wiki/troubleshooting/compatibility
+  - WIKI/06+Troubleshooting/Compatibility+Issues+-+Plugins+to+Watch+Out+For
+permalink: wiki/troubleshooting/compatibility
 ---
 # [[Compatibility Issues - Plugins to Watch Out For]]
 

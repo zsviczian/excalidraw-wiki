@@ -4,10 +4,11 @@ tags:
   - excalidraw
 excalidraw-export-dark: false
 excalidraw-autoexport: svg
-excalidraw-link-prefix: "🔗"
+excalidraw-link-prefix: 🔗
 excalidraw-export-transparent: false
 aliases:
-  - wiki/catalogue
+  - WIKI/01+Getting+Started/Catalogue+of+Videos
+permalink: wiki/catalogue
 ---
 ![[Catalogue of Videos.svg]]
 

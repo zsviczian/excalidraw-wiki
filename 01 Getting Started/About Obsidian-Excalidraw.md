@@ -1,16 +1,17 @@
 ---
-excalidraw-export-transparent: false
+excalidraw-export-transparent: true
 excalidraw-export-pngscale: 1
 excalidraw-export-padding: 20
 excalidraw-plugin: parsed
-tags: [excalidraw]
+tags:
+  - excalidraw
 excalidraw-export-dark: false
 excalidraw-autoexport: svg
-excalidraw-export-transparent: true
 cssclasses:
   - ex-pageheight
 aliases:
-  - wiki/about
+  - WIKI/01+Getting+Started/About+Obsidian-Excalidraw
+permalink: wiki/about
 ---
 ![[About Obsidian-Excalidraw.svg]]
 

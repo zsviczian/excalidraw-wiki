@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/advanced
+  - WIKI/03+Advanced+Usage/__MOC+-+Advanced+Usage
+permalink: wiki/advanced
 ---
 - [[Command Palette Actions]]
 - [[Document Properties|Excalidraw Markdown Document Properties]]

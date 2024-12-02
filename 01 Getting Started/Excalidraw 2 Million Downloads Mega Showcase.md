@@ -5,7 +5,8 @@ tags:
 excalidraw-export-dark: false
 excalidraw-autoexport: svg
 aliases:
-  - wiki/showcase
+  - WIKI/01+Getting+Started/Excalidraw+2+Million+Downloads+Mega+Showcase
+permalink: wiki/showcase
 ---
  
  ![2M Download Mega Showcase](https://youtu.be/P_Q6avJGoWI)

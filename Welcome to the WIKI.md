@@ -7,7 +7,8 @@ excalidraw-export-transparent: true
 excalidraw-open-md: true
 excalidraw-export-padding: 20
 aliases:
-  - wiki/welcome
+  - WIKI/Welcome+to+the+WIKI
+permalink: wiki/welcome
 ---
 # [[Welcome to the WIKI]]
 

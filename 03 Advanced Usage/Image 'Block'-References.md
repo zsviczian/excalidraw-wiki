@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/images
+  - WIKI/03+Advanced+Usage/Image+'Block'-References
+permalink: wiki/images
 ---
 [[#Block Reference Images]]
 [[#Image Fragments]]

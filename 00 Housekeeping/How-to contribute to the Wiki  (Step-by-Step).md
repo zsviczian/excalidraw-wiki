@@ -5,7 +5,8 @@ tags:
 excalidraw-autoexport: svg
 excalidraw-open-md: true
 aliases:
-  - wiki/guidelines/how-to
+  - WIKI/00+Housekeeping/How-to+contribute+to+the+Wiki++(Step-by-Step)
+permalink: wiki/guidelines/how-to
 ---
 # [[Contributing to the Excalidraw Wiki]]
 ![[How-to contribute to the Wiki  (Step-by-Step).svg]]
