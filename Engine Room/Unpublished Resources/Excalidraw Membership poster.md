@@ -6,6 +6,8 @@ tags: [excalidraw]
 excalidraw-autoexport: svg
 
 ---
+**see also**:: [[Excalidraw Sword in Obsidian Stone]]
+
 ![[Excalidraw Membership poster.svg]]
 # Excalidraw Data
 ## Text Elements
