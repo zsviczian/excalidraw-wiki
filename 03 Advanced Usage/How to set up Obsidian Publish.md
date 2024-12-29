@@ -5,11 +5,12 @@ tags:
 excalidraw-export-dark: false
 excalidraw-autoexport: svg
 excalidraw-export-transparent: true
-excalidraw-link-prefix: "🔗"
+excalidraw-link-prefix: 🔗
 cssclasses:
   - ex-pageheight
 aliases:
-  - wiki/publish
+  - Obsidian+Publish/Custom+domains
+permalink: wiki/publish
 ---
 ![[How to set up Obsidian Publish.svg]]
 

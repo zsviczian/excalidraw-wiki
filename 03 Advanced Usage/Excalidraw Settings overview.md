@@ -6,7 +6,8 @@ excalidraw-autoexport: svg
 excalidraw-open-md: true
 excalidraw-export-transparent: true
 aliases:
-  - wiki/settings
+  - WIKI/03+Advanced+Usage/Excalidraw+Settings+overview
+permalink: wiki/settings
 ---
 # [[Excalidraw Settings overview]]
 

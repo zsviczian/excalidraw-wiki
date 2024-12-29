@@ -1,6 +1,8 @@
 ---
 aliases:
-  - wiki/guidelines
+  - WIKI/00+Housekeeping/Contributor+Guidelines
+  - Hobbies/Excalidraw+Blog/WIKI/00+Housekeeping/Contributor+Guidelines
+permalink: wiki/guidelines
 ---
 # [[Contributor Guidelines]]
 

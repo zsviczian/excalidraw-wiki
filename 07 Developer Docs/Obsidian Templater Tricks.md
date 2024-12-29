@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/templates
+  - WIKI/07+Developer+Docs/Obsidian+Templater+Tricks
+permalink: wiki/templates
 ---
 %% <%* throw(new Error("Cannibalization")); %> %%
 # [[Obsidian Templater Tricks]]

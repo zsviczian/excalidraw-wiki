@@ -6,7 +6,8 @@ excalidraw-autoexport: svg
 excalidraw-open-md: true
 excalidraw-export-transparent: true
 aliases:
-  - wiki/markdown
+  - WIKI/03+Advanced+Usage/Excalidraw+Markdown+File+Structure
+permalink: wiki/markdown
 ---
 # [[Excalidraw Markdown File Structure]]
 [Downloadable storyboard on Excalidraw.com](https://excalidraw.com/#json=MSQ4UcwPcETmLdSaKFjD_,40CTKWiOAb-BvmtYYHyVHQ)

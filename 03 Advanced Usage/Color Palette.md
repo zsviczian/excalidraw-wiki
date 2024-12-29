@@ -5,7 +5,8 @@ tags:
 excalidraw-autoexport: svg
 excalidraw-open-md: true
 aliases:
-  - wiki/color-palette
+  - WIKI/03+Advanced+Usage/Color+Palette
+permalink: wiki/color-palette
 ---
 # [[WIKI/03 Advanced Usage/Color Palette]]
 You can define your custom color palettes. The steps are a bit technical, however, once you've set up the Color Palette, you can [[Create your Template]], load the palette to the template, and all your new Excalidraw documents will have your custom color palette.

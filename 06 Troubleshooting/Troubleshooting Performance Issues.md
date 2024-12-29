@@ -1,6 +1,7 @@
 ---
 aliases:
-  - wiki/troubleshooting
+  - WIKI/06+Troubleshooting/Troubleshooting+Performance+Issues
+permalink: wiki/troubleshooting/performance
 ---
 # Troubleshooting Excalidraw Performance Issues
 
