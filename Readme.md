@@ -1,6 +1,6 @@
 # Welcome to the WIKI Project
 
-![Welcome](Welcome%20to%20the%20WIKI.svg)
+![Welcome](Welcome%20to%20the%20Wiki.svg)
 
 Welcome to the official wiki for the Obsidian-Excalidraw Plugin! This wiki serves as a hub for documentation, tutorials, and resources related to the Excalidraw Plugin for Obsidian.
 

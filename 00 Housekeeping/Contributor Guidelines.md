@@ -31,7 +31,7 @@ For a simpler way to contribute:
 
 ### 2. Fork and Clone (For More Advanced Contributors)
 
-Here's a more detailed [[How-to contribute to the Wiki  (Step-by-Step)]] documentation to help you in case you get lost.
+Here's a more detailed [[How to Contribute to the Wiki  (Step-by-Step)]] documentation to help you in case you get lost.
 
 If you are familiar with Git and prefer a more hands-on approach:
 1. **Fork and Clone the Vault**: Fork the [Excalidraw-Wiki repository](https://github.com/zsviczian/excalidraw-wiki) on GitHub and clone it to your local device. This will give you a local copy of the Obsidian vault to work on.
