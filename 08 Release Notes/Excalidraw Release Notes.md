@@ -1,3 +1,13 @@
+# Obsidian-Excalidraw Release Notes
+
+This is an export of all the release notes from [GitHub](https://github.com/zsviczian/obsidian-excalidraw-plugin/releases) to allow searching for release notes on the wiki page.
+
+Watch this video to learn how you can use these release notes for training your Personal Notebook LM model.
+Download the release notes packaged as a single file from [Ko-Fi](https://ko-fi.com/s/e946a094e0)
+
+![Turn any YouTube Channel into your AI Mentor - Obsidian is the ultimate automation workbench for PKM](https://youtu.be/l0cfhGwaAG8)
+
+## Releases
 
 - [[2.7.4]]
 - [[2.7.3]]

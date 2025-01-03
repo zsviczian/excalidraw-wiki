@@ -11,74 +11,78 @@ permalink: wiki/command-palette
 ---
 
 # [[Command Palette Actions]]
+Excalidraw adds a number of command palette actions to Obsidian. Most of these commands are context sensitive. Some only work in markdown editor, other in Excalidraw. Some only if certain type of elements or lines in markdown are selected e.g.: only if an image is selected, or only if the cursor is on an eligible line, for example a line that contains a link to an image or a pdf document `![[image.svg]]`
 
-| Command                                                                                         | Description | Condition when Visible |
-| ----------------------------------------------------------------------------------------------- | ----------- | ---------------------- |
-| Add back-of-note card                                                                           |             |                        |
-| Annotate image in Excalidraw                                                                    |             |                        |
-| Convert *.excalidraw to *.md files                                                              |             |                        |
-| Convert markdown note to Excalidraw Drawing                                                     |             |                        |
-| Convert to file...                                                                              |             |                        |
-| Copy ![\[embed link]] for this drawing                                                          |             |                        |
-| Copy 'area=' !\[[link]] for selected element to clipboard.                                      |             |                        |
-| Copy 'clippedframe=' !\[[link]] for selected element to clipboard.                              |             |                        |
-| Copy 'frame=' !\[[link]] for selected element to clipboard.                                     |             |                        |
-| Copy 'group=' !\[[link]] for selected element to clipboard.                                     |             |                        |
-| Copy [\[link]] for selected element to clipboard.                                               |             |                        |
-| Create new drawing - IN A NEW TAB                                                               |             |                        |
-| Create new drawing - IN A NEW TAB - and embed into active document                              |             |                        |
-| Create new drawing - IN A POPOUT WINDOW                                                         |             |                        |
-| Create new drawing - IN A POPOUT WINDOW - and embed into active document                        |             |                        |
-| Create new drawing - IN AN ADJACENT WINDOW                                                      |             |                        |
-| Create new drawing - IN AN ADJACENT WINDOW - and embed into active document                     |             |                        |
-| Create new drawing - IN THE CURRENT ACTIVE WINDOW                                               |             |                        |
-| Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document              |             |                        |
-| Crop and mask image                                                                             |             |                        |
-| Decompress current Excalidraw file                                                              |             |                        |
-| Delete selected image or Markdown file from Obsidian Vault                                      |             |                        |
-| Disable autosave until next time Obsidian starts (only set this if you know what you are doing) |             |                        |
-| Embed a drawing                                                                                 |             |                        |
-| Embed the most recently edited drawing                                                          |             |                        |
-| Embeddable Properties                                                                           |             |                        |
-| Enable autosave                                                                                 |             |                        |
-| Export Image                                                                                    |             |                        |
-| Export stencil library as an *.excalidrawlib file                                               |             |                        |
-| Frame Settings                                                                                  |             |                        |
-| Import an SVG file as Excalidraw strokes (limited SVG support, TEXT currently not supported)    |             |                        |
-| Insert active PDF page as image                                                                 |             |                        |
-| Insert ANY file                                                                                 |             |                        |
-| Insert image or Excalidraw drawing from your vault                                              |             |                        |
-| Insert LaTeX formula (e.g. \binom{n}{k} = \frac{n!}{k!(n-k)!}).                                 |             |                        |
-| Insert link to file                                                                             |             |                        |
-| Insert markdown file from vault                                                                 |             |                        |
-| Insert Obsidian Command as a link                                                               |             |                        |
-| Insert PDF file from vault                                                                      |             |                        |
-| Install or update Excalidraw Scripts                                                            |             |                        |
-| Move back-of-note card to File                                                                  |             |                        |
-| Obsidian Publish: Find SVG and PNG exports that are out of date                                 |             |                        |
-| OCR full drawing re-run: Grab text from freedraw + images to clipboard and doc.props            |             |                        |
-| OCR full drawing: Grab text from freedraw + images to clipboard and doc.props                   |             |                        |
-| OCR selected elements: Grab text from freedraw + images to clipboard                            |             |                        |
-| Open Excalidraw drawing                                                                         |             |                        |
-| Open existing drawing - IN A NEW PANE                                                           |             |                        |
-| Open existing drawing - IN THE CURRENT ACTIVE PANE                                              |             |                        |
-| Open the back-of-the-note of the selected excalidraw image                                      |             |                        |
-| Open the image-link or LaTeX-formula editor                                                     |             |                        |
-| Read latest release notes                                                                       |             |                        |
-| Reset selected image element aspect ratio                                                       |             |                        |
-| Save (will also update transclusions)                                                           |             |                        |
-| Save image from URL to local file                                                               |             |                        |
-| Scale selected embeddable elements to 100% relative to the current canvas zoom                  |             |                        |
-| Search for text in drawing                                                                      |             |                        |
-| Set selected image element size to 100% of original                                             |             |                        |
-| Toggle between Excalidraw and Markdown mode                                                     |             |                        |
-| Toggle frame clipping                                                                           |             |                        |
-| Toggle frame rendering                                                                          |             |                        |
-| Toggle fullscreen mode                                                                          |             |                        |
-| Toggle left-handed mode                                                                         |             |                        |
-| Toggle property-panel tray-mode                                                                 |             |                        |
-| Toggle Text Element between edit RAW and PREVIEW                                                |             |                        |
-| Toggle to invert default binding behavior                                                       |             |                        |
+
+| Command                                                                                                     | Description | Condition when Visible | ID                                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ----------- | ---------------------- | -------------------------------------------------------------------------- |
+| Excalidraw: Add back-of-note card                                                                           |             |                        | obsidian-excalidraw-plugin:universal-card                                  |
+| Excalidraw: Annotate image in Excalidraw                                                                    |             |                        | obsidian-excalidraw-plugin:annotate-image                                  |
+| Excalidraw: Convert `*.excalidraw` to `*.md` files                                                          |             |                        | obsidian-excalidraw-plugin:convert-excalidraw                              |
+| Excalidraw: Convert markdown note to Excalidraw Drawing                                                     |             |                        | obsidian-excalidraw-plugin:convert-to-excalidraw                           |
+| Excalidraw: Convert to file...                                                                              |             |                        | obsidian-excalidraw-plugin:convert-text2MD                                 |
+| Excalidraw: Copy `![[embed link]] for this drawing`                                                         |             |                        | obsidian-excalidraw-plugin:copy-link-to-drawing                            |
+| Excalidraw: Copy 'area=' `![[link]] for selected element to clipboard.`                                     |             |                        | obsidian-excalidraw-plugin:insert-link-to-element-area                     |
+| Excalidraw: Copy 'clippedframe=' `![[link]] for selected element to clipboard.`                             |             |                        | obsidian-excalidraw-plugin:insert-link-to-element-frame-clipped            |
+| Excalidraw: Copy 'frame=' `![[link]] for selected element to clipboard.`                                    |             |                        | obsidian-excalidraw-plugin:insert-link-to-element-frame                    |
+| Excalidraw: Copy 'group=' `![[link]] for selected element to clipboard.`                                    |             |                        | obsidian-excalidraw-plugin:insert-link-to-element-group                    |
+| Excalidraw: Copy `[[link]]` for selected element to clipboard.                                              |             |                        | obsidian-excalidraw-plugin:insert-link-to-element                          |
+| Excalidraw: Create new drawing - IN A NEW TAB                                                               |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-newtab                    |
+| Excalidraw: Create new drawing - IN A NEW TAB - and embed into active document                              |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab         |
+| Excalidraw: Create new drawing - IN A POPOUT WINDOW                                                         |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-popout                    |
+| Excalidraw: Create new drawing - IN A POPOUT WINDOW - and embed into active document                        |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout          |
+| Excalidraw: Create new drawing - IN AN ADJACENT WINDOW                                                      |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate                           |
+| Excalidraw: Create new drawing - IN AN ADJACENT WINDOW - and embed into active document                     |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed                 |
+| Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW                                               |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-on-current                |
+| Excalidraw: Create new drawing - IN THE CURRENT ACTIVE WINDOW - and embed into active document              |             |                        | obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current      |
+| Excalidraw: Crop and mask image                                                                             |             |                        | obsidian-excalidraw-plugin:crop-image                                      |
+| Excalidraw: Decompress current Excalidraw file                                                              |             |                        | obsidian-excalidraw-plugin:excalidraw-unzip-file                           |
+| Excalidraw: Delete selected image or Markdown file from Obsidian Vault                                      |             |                        | obsidian-excalidraw-plugin:delete-file                                     |
+| Excalidraw: Disable autosave until next time Obsidian starts (only set this if you know what you are doing) |             |                        | obsidian-excalidraw-plugin:excalidraw-disable-autosave                     |
+| Excalidraw: Duplicate selected image with a different image ID                                              |             |                        | obsidian-excalidraw-plugin:duplicate-image                                 |
+| Excalidraw: Embed a drawing                                                                                 |             |                        | obsidian-excalidraw-plugin:excalidraw-insert-transclusion                  |
+| Excalidraw: Embed the most recently edited drawing                                                          |             |                        | obsidian-excalidraw-plugin:excalidraw-insert-last-active-transclusion      |
+| Excalidraw: Embeddable Properties                                                                           |             |                        | obsidian-excalidraw-plugin:excalidraw-embeddable-poroperties               |
+| Excalidraw: Enable autosave                                                                                 |             |                        | obsidian-excalidraw-plugin:excalidraw-enable-autosave                      |
+| Excalidraw: Export Image                                                                                    |             |                        | obsidian-excalidraw-plugin:export-image                                    |
+| Excalidraw: Export stencil library as an *.excalidrawlib file                                               |             |                        | obsidian-excalidraw-plugin:excalidraw-download-lib                         |
+| Excalidraw: Frame Settings                                                                                  |             |                        | obsidian-excalidraw-plugin:frame-settings                                  |
+| Excalidraw: Import an SVG file as Excalidraw strokes (limited SVG support, TEXT currently not supported)    |             |                        | obsidian-excalidraw-plugin:import-svg                                      |
+| Excalidraw: Insert active PDF page as image                                                                 |             |                        | obsidian-excalidraw-plugin:insert-active-pdfpage                           |
+| Excalidraw: Insert ANY file                                                                                 |             |                        | obsidian-excalidraw-plugin:universal-add-file                              |
+| Excalidraw: Insert image or Excalidraw drawing from your vault                                              |             |                        | obsidian-excalidraw-plugin:insert-image                                    |
+| Excalidraw: Insert last active PDF page as image                                                            |             |                        | obsidian-excalidraw-plugin:insert-pdf                                      |
+| Excalidraw: Insert LaTeX formula (e.g. \binom{n}{k} = \frac{n!}{k!(n-k)!}).                                 |             |                        | obsidian-excalidraw-plugin:insert-LaTeX-symbol                             |
+| Excalidraw: Insert link to file                                                                             |             |                        | obsidian-excalidraw-plugin:insert-link                                     |
+| Excalidraw: Insert markdown file from vault                                                                 |             |                        | obsidian-excalidraw-plugin:insert-md                                       |
+| Excalidraw: Insert Obsidian Command as a link                                                               |             |                        | obsidian-excalidraw-plugin:insert-command                                  |
+| Excalidraw: Install or update Excalidraw Scripts                                                            |             |                        | obsidian-excalidraw-plugin:scriptengine-store                              |
+| Excalidraw: Move back-of-note card to File                                                                  |             |                        | obsidian-excalidraw-plugin:convert-card-to-file                            |
+| Excalidraw: Obsidian Publish: Find SVG and PNG exports that are out of date                                 |             |                        | obsidian-excalidraw-plugin:excalidraw-publish-svg-check                    |
+| Excalidraw: OCR full drawing re-run: Grab text from freedraw + images to clipboard and doc.props            |             |                        | obsidian-excalidraw-plugin:rerun-ocr                                       |
+| Excalidraw: OCR full drawing: Grab text from freedraw + images to clipboard and doc.props                   |             |                        | obsidian-excalidraw-plugin:run-ocr                                         |
+| Excalidraw: OCR selected elements: Grab text from freedraw + images to clipboard                            |             |                        | obsidian-excalidraw-plugin:run-ocr-selectedelements                        |
+| Excalidraw: Open Excalidraw drawing                                                                         |             |                        | obsidian-excalidraw-plugin:open-image-excalidraw-source                    |
+| Excalidraw: Open existing drawing - IN A NEW PANE                                                           |             |                        | obsidian-excalidraw-plugin:excalidraw-open                                 |
+| Excalidraw: Open existing drawing - IN THE CURRENT ACTIVE PANE                                              |             |                        | obsidian-excalidraw-plugin:excalidraw-open-on-current                      |
+| Excalidraw: Open the back-of-the-note of the selected excalidraw image                                      |             |                        | obsidian-excalidraw-plugin:flip-image                                      |
+| Excalidraw: Open the image-link or LaTeX-formula editor                                                     |             |                        | obsidian-excalidraw-plugin:open-link-props                                 |
+| Excalidraw: Read latest release notes                                                                       |             |                        | obsidian-excalidraw-plugin:release-notes                                   |
+| Excalidraw: Reset selected image element aspect ratio                                                       |             |                        | obsidian-excalidraw-plugin:reset-image-ar                                  |
+| Excalidraw: Save (will also update transclusions)                                                           |             |                        | obsidian-excalidraw-plugin:save                                            |
+| Excalidraw: Save image from URL to local file                                                               |             |                        | obsidian-excalidraw-plugin:excalidraw-convert-image-from-url-to-local-file |
+| Excalidraw: Scale selected embeddable elements to 100% relative to the current canvas zoom                  |             |                        | obsidian-excalidraw-plugin:excalidraw-embeddables-relative-scale           |
+| Excalidraw: Search for text in drawing                                                                      |             |                        | obsidian-excalidraw-plugin:search-text                                     |
+| Excalidraw: Set selected image element size to 100% of original                                             |             |                        | obsidian-excalidraw-plugin:reset-image-to-100                              |
+| Excalidraw: Toggle between Excalidraw and Markdown mode                                                     |             |                        | obsidian-excalidraw-plugin:toggle-excalidraw-view                          |
+| Excalidraw: Toggle frame clipping                                                                           |             |                        | obsidian-excalidraw-plugin:disable-frameclipping                           |
+| Excalidraw: Toggle frame rendering                                                                          |             |                        | obsidian-excalidraw-plugin:disable-framerendering                          |
+| Excalidraw: Toggle fullscreen mode                                                                          |             |                        | obsidian-excalidraw-plugin:fullscreen                                      |
+| Excalidraw: Toggle left-handed mode                                                                         |             |                        | obsidian-excalidraw-plugin:toggle-lefthanded-mode                          |
+| Excalidraw: Toggle property-panel tray-mode                                                                 |             |                        | obsidian-excalidraw-plugin:tray-mode                                       |
+| Excalidraw: Toggle Text Element between edit RAW and PREVIEW                                                |             |                        | obsidian-excalidraw-plugin:toggle-lock                                     |
+| Excalidraw: Toggle to invert default binding behavior                                                       |             |                        | obsidian-excalidraw-plugin:disable-binding                                 |
+
 
 The list was generated with this script:
 ```js

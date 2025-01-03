@@ -1,0 +1,38 @@
+**Created**:: [[2021-06-06 Sunday]]
+**Link**:: https://youtu.be/qT_NQAojkzg
+**Duration**:: 2:41
+
+![Obsidian-Excalidraw 1.1.8 update - Links enhanced + file quick preview](https://youtu.be/qT_NQAojkzg)
+
+# Summary
+In this video, the host demonstrates the new features added in the Obsidian-Excalidraw 1.1.8 update. Key enhancements include the ability to insert file links directly into drawings, support for special characters in links, automatic updating of links when file names change, and a new quick preview feature for Excalidraw images. These updates aim to improve the efficiency and functionality of using Excalidraw within Obsidian.
+
+# Key Takeaways
+- New comment palette option allows users to insert links to files within drawings.
+- Links can now contain special characters without breaking functionality.
+- Links are automatically updated when file names change, maintaining integrity.
+- A quick preview feature allows users to view Excalidraw images easily without leaving the current pane.
+
+# Content
+Hey! I'd like to demonstrate some of the new features in Excalidraw for Obsidian. I've added a new comment palette option to insert a link to a file. This allows me to insert a link into my drawing. For example, I'll choose this first link, and a link was created. Now you can see this. This is the second enhancement: now I can have links in double brackets. This allows me to add any special characters on the side, and still, my link is going to work. Normally, these characters are not allowed in a file name, but now, because I'm only looking for the link, if I control-click this, then the file is opened, and only the link is considered. [* ](https://youtu.be/qT_NQAojkzg?t=0)
+
+The third enhancement is I'm now updating links if the file name is updated. So let's add three X's here, and you can see that the file name was updated with the three X's. If I remove the three X's, then the file name is updated like that. The old type of links still work, so if I have a piece of text that is a valid file name, then control-clicking on it will create a file or open the file. If the file doesn't exist, you get a message. This was released sometime last week, but I didn't have a video, so let me show you: if you want to create this, you need to control shift-click, and with that, the file is created. Whatever is created, and the same works if this is a new title. If I change the title, then the title is updated in the document. [* ](https://youtu.be/qT_NQAojkzg?t=45)
+
+And then the final enhancement in this version is I've added the quick preview. So if I control or command-click while hovering over an Excalidraw image, then the image opens up in this preview. If I click the image, then it will open. Also, while in the quick preview, if you control-click, it opens in a new pane. If you just simply click, then it will open in the currently active pane. So those are the enhancements. I hope you enjoyed them! Keep drawing with Excalidraw. [* ](https://youtu.be/qT_NQAojkzg?t=102)
+
+# YouTube Details
+
+## YouTube Description
+
+You can install the plugin from Community Plugins in Obsidian, or download it from GitHub here: https://github.com/zsviczian/obsidian-excalidraw-plugin
+
+Sync requires an Obsidian sync subscription.
+
+If you find this helpful please say thanks by buying me a coffee: https://ko-fi.com/zsolt
+
+You can reach me (@zsviczian) in the Obsidian Members Group (OMG) on Discord or on Twitter.
+
+## YouTube Transcript
+
+[hey i'd like to demonstrate some of the](https://youtu.be/qT_NQAojkzg?t=0) [new features](https://youtu.be/qT_NQAojkzg?t=2) [in x-colidra obsidian i've added a new](https://youtu.be/qT_NQAojkzg?t=3) [comment palette](https://youtu.be/qT_NQAojkzg?t=6) [option insert link to file](https://youtu.be/qT_NQAojkzg?t=7) [and this allows me to insert a link](https://youtu.be/qT_NQAojkzg?t=11) [into my drawing so for example i'll](https://youtu.be/qT_NQAojkzg?t=15) [choose this first link](https://youtu.be/qT_NQAojkzg?t=18) [and a link was created now you can see](https://youtu.be/qT_NQAojkzg?t=19) [and this is the second enhancement](https://youtu.be/qT_NQAojkzg?t=22) [that now i can have links in double](https://youtu.be/qT_NQAojkzg?t=25) [brackets this allows me to](https://youtu.be/qT_NQAojkzg?t=28) [add any special characters](https://youtu.be/qT_NQAojkzg?t=32) [on the side and still my link](https://youtu.be/qT_NQAojkzg?t=35) [is going to work so normally](https://youtu.be/qT_NQAojkzg?t=38) [these characters are not allowed in a](https://youtu.be/qT_NQAojkzg?t=41) [file name](https://youtu.be/qT_NQAojkzg?t=44) [but now because i'm only looking for the](https://youtu.be/qT_NQAojkzg?t=44) [link if i control click this](https://youtu.be/qT_NQAojkzg?t=47) [then the file is opened and](https://youtu.be/qT_NQAojkzg?t=49) [only the link is considered](https://youtu.be/qT_NQAojkzg?t=52) [the third enhancement is i'm now](https://youtu.be/qT_NQAojkzg?t=56) [updating](https://youtu.be/qT_NQAojkzg?t=58) [links if the file name is updated so](https://youtu.be/qT_NQAojkzg?t=60) [let's add three x's here](https://youtu.be/qT_NQAojkzg?t=62) [and you can see that the file name was](https://youtu.be/qT_NQAojkzg?t=64) [updated with the three x's](https://youtu.be/qT_NQAojkzg?t=67) [if i remove the three x's then the file](https://youtu.be/qT_NQAojkzg?t=69) [name](https://youtu.be/qT_NQAojkzg?t=72) [is updated like that](https://youtu.be/qT_NQAojkzg?t=73) [the old type of links still work so if](https://youtu.be/qT_NQAojkzg?t=76) [i have a piece of text that is a valid](https://youtu.be/qT_NQAojkzg?t=79) [file name](https://youtu.be/qT_NQAojkzg?t=82) [then control clicking on it will create](https://youtu.be/qT_NQAojkzg?t=84) [a file](https://youtu.be/qT_NQAojkzg?t=86) [or will open the file if the file](https://youtu.be/qT_NQAojkzg?t=88) [doesn't exist you get a message](https://youtu.be/qT_NQAojkzg?t=90) [this was released sometime last week but](https://youtu.be/qT_NQAojkzg?t=92) [i didn't have a video so let me show you](https://youtu.be/qT_NQAojkzg?t=95) [if you want to create this you need to](https://youtu.be/qT_NQAojkzg?t=98) [control shift-click](https://youtu.be/qT_NQAojkzg?t=100) [and with that the file](https://youtu.be/qT_NQAojkzg?t=102) [is created whatever created](https://youtu.be/qT_NQAojkzg?t=105) [and the same works if i this is a](https://youtu.be/qT_NQAojkzg?t=110) [new title if i change the title then the](https://youtu.be/qT_NQAojkzg?t=114) [title](https://youtu.be/qT_NQAojkzg?t=117) [is updated in the document and then the](https://youtu.be/qT_NQAojkzg?t=118) [final](https://youtu.be/qT_NQAojkzg?t=121) [enhancement in this version is i've](https://youtu.be/qT_NQAojkzg?t=122) [added the](https://youtu.be/qT_NQAojkzg?t=124) [quick preview so if i control or command](https://youtu.be/qT_NQAojkzg?t=125) [click while hovering over](https://youtu.be/qT_NQAojkzg?t=128) [an x-coli draw image then the image](https://youtu.be/qT_NQAojkzg?t=130) [opens up in this preview and if i click](https://youtu.be/qT_NQAojkzg?t=134) [the image then it will open](https://youtu.be/qT_NQAojkzg?t=137) [also while in the quick preview](https://youtu.be/qT_NQAojkzg?t=140) [if you control click it opens in a new](https://youtu.be/qT_NQAojkzg?t=143) [pane](https://youtu.be/qT_NQAojkzg?t=146) [if you just simply uh click then it will](https://youtu.be/qT_NQAojkzg?t=147) [open](https://youtu.be/qT_NQAojkzg?t=150) [in the currently active pane so those](https://youtu.be/qT_NQAojkzg?t=151) [are the enhancements](https://youtu.be/qT_NQAojkzg?t=154) [i hope you enjoyed them keep drawing](https://youtu.be/qT_NQAojkzg?t=156) [with xcode raw](https://youtu.be/qT_NQAojkzg?t=159) 
+
