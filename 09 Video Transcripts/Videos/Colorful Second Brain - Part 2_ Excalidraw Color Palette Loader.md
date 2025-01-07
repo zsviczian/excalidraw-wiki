@@ -1,6 +1,7 @@
 **Created**:: [[2022-09-09 Friday]]
 **Link**:: https://youtu.be/epYNx2FSf2w
 **Duration**:: 25:24
+**see also**:: [[WIKI/03 Advanced Usage/Color Palette|Color Palette]]
 
 ![Colorful Second Brain - Part 2: Excalidraw Color Palette Loader](https://youtu.be/epYNx2FSf2w)
 

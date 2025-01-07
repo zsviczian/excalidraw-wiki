@@ -1,6 +1,7 @@
 **Created**:: [[2022-10-15 Saturday]]
 **Link**:: https://youtu.be/7gJDwNgQ6NU
 **Duration**:: 48:01
+**see also**:: [[WIKI/03 Advanced Usage/Color Palette|Color Palette]]
 
 ![Colorful Second Brain - Part 4: Scripting Color with Color Master in the Obsidian Excalidraw plugin](https://youtu.be/7gJDwNgQ6NU)
 

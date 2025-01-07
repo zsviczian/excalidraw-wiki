@@ -4,6 +4,7 @@
 
 ![Excalidraw-Obsidian 1.6.20 - Bind/Unbind text from container, Frontmatter tags to customize export](https://youtu.be/U2LkBRBk4LY)
 
+For a full list of Excalidraw document properties check: [[Document Properties]].
 # Summary
 In this video, the creator demonstrates the new features of Excalidraw in Obsidian version 1.6.20, focusing on how to bind and unbind text from containers. They also explain customizable export options using front matter tags, allowing users to control aspects like theme and padding for drawings. By the end of the video, viewers gain insights into enhancing their visual notes with the new capabilities offered by Excalidraw.
 

@@ -1,6 +1,7 @@
 **Created**:: [[2023-05-21 Sunday]]
 **Link**:: https://youtu.be/diBT5iaoAYo
 **Duration**:: 8:38
+**see also**:: [[WIKI/03 Advanced Usage/Color Palette|Color Palette]]
 
 ![Excalidraw 1.9.2 - New Color Picker and Updated Palette Loader](https://youtu.be/diBT5iaoAYo)
 

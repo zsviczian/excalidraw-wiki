@@ -35,3 +35,33 @@ ea.onFileCreateHook = (data) => {
 2. Update the script as described above
 3. Restart Obsidian for the startup script to take effect
 4. Enjoy!  🎉🥳🍾
+
+## Advanced usage
+Of course, using the same hook you could also add any custom logic here. For example, if you'd want you could automatically rename the file based on some criteria. Here's a boilerplate for renaming the file based on the host file, the file into which you've just inserted the drawing using the [[Command Palette Actions|Command Palette Action]]: `Exalidraw: Create new .... and embed ...`)
+
+```js
+ea.onFileCreateHook = (data) => {
+  const backlinks = getBacklinks(data.excalidrawFile);
+  if(backlinks.length !== 1) {
+    //if there are no files, or multiple files prompt for name
+    app.fileManager.promptForFileRename(data.excalidrawFile);
+    return;
+  }
+  const hostFile = backlinks[0];
+  //do your magic
+  const newFilePath = data.excalidrawFile.path;
+
+  //rename the file
+  app.fileManager.renameFile(data.excalidrawFile, newFilePath);
+}
+
+function getBacklinks(file) {
+  const backlinks = app.metadataCache.resolvedLinks;
+
+  const linkedFiles = Object.entries(backlinks)
+    .filter(([sourcePath, links]) => links[file.path])
+    .map(([sourcePath]) => app.vault.getFileByPath(sourcePath));
+
+  return linkedFiles;
+}
+```

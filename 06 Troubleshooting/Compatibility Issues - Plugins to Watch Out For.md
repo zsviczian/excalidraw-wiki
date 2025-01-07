@@ -31,7 +31,7 @@ Here's a list of plugins and themes that have caused performance issues or other
 - [Style Settings plugin](https://github.com/mgmeyers/obsidian-style-settings/issues/115#issuecomment-2416514409). Navigation in Obsidian settings is sluggish. [More info](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/1826)
 - [OmniSearch](https://github.com/scambier/obsidian-omnisearch) Significant performance degradation. [More info](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2055#issuecomment-2401376219)
 - [Math+](https://github.com/ocapraro/obsidian-math-plus) Some users have reported that after installing the plugin the Excalidraw toolbar disappeared.
-
+- [Linter](https://github.com/platers/obsidian-linter) changes files in the background which can lead to corrupt Excalidraw files. For example the `lint on focus file change` option was reported as such a problematic setting. [#1715](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/1715#issuecomment-2571640643)
 
 %%
 # Excalidraw Data

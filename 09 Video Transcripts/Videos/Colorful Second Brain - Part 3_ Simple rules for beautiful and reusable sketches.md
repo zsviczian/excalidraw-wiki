@@ -1,6 +1,7 @@
 **Created**:: [[2022-10-08 Saturday]]
 **Link**:: https://youtu.be/r9oB1SlK1GU
 **Duration**:: 19:36
+**see also**:: [[WIKI/03 Advanced Usage/Color Palette|Color Palette]]
 
 ![Colorful Second Brain - Part 3: Simple rules for beautiful and reusable sketches](https://youtu.be/r9oB1SlK1GU)
 

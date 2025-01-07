@@ -1,6 +1,7 @@
 **Created**:: [[2022-09-04 Sunday]]
 **Link**:: https://youtu.be/6PLGHBH9VZ4
 **Duration**:: 21:40
+**see also**:: [[WIKI/03 Advanced Usage/Color Palette|Color Palette]]
 
 ![Colorful Second Brain - Part 1: Crafting your colors in Excalidraw-Obsidian](https://youtu.be/6PLGHBH9VZ4)
 
