@@ -26,7 +26,7 @@ Link:: [Palette Loader Video](https://youtu.be/epYNx2FSf2w)
 - [[Colorful Second Brain - Part 1_ Crafting your colors in Excalidraw-Obsidian]]
 - [[Colorful Second Brain - Part 2_ Excalidraw Color Palette Loader]]
 - [[Colorful Second Brain - Part 3_ Simple rules for beautiful and reusable sketches]]
-- [[Colorful Second Brain - Part 4_ Scripting Color with Color Master in the Obsidian Excalidraw plugin]]
+- [[Colorful Second Brain - Part 4 - Scripting Color with Color Master in the Obsidian Excalidraw plugin]]
 - [[Excalidraw 1.9.2 - New Color Picker and Updated Palette Loader]]
 ## Structure of the palette file
 Here's a sample palette file. The 6 digit hexadecimal values listed one after the other in new rows are the colors. Notice how they are in batches of 5, matching the palette in Excalidraw. Notice also that the numbers do not have the "#" sign at the front.

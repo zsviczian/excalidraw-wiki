@@ -8,6 +8,8 @@ aliases:
   - WIKI/01+Getting+Started/Excalidraw+2+Million+Downloads+Mega+Showcase
 permalink: wiki/showcase
 ---
+You can find the transcript and the timestamps from this video here [[The Excalidraw-Obsidian Showcasing 57 key features in just 17 minutes]]
+
  
  ![2M Download Mega Showcase](https://youtu.be/P_Q6avJGoWI)
  

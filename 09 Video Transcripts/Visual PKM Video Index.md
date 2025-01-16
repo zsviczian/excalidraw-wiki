@@ -5,6 +5,10 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 
 ![Turn any YouTube Channel into your AI Mentor - Obsidian is the ultimate automation workbench for PKM](https://youtu.be/l0cfhGwaAG8)
 
+# Topical indexes
+- [[Scripting and Automation Index]]
+- [[ExcaliBrain Index]]
+- more to come later
 # 2025
 
 # Q1
@@ -22,7 +26,7 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 - [[NotebookLM Magic_ How to Turn Your Notes into a Podcast.md|NotebookLM Magic: How to Turn Your Notes into a Podcast]]
 - [[Da Vinci, Einstein, Jobs, Musk_ What's their shared secret_.md|Da Vinci, Einstein, Jobs, Musk: What's their shared secret?]]
 - [[Evolution of my Obsidian graph_ 3.5 years in 37 seconds.md|Evolution of my Obsidian graph: 3.5 years in 37 seconds]]
-- [[Techno-Visual PKM Community Launch.md|Techno-Visual PKM Community Launch]]
+- [[Techno-Visual PKM Community Pilot Kick-Off 2024 November|Techno-Visual PKM Community Pilot Kick-Off 2024 November]]
 - [[Practical Demo_ Read eBooks and Create Visual Summaries in Obsidian.md|Practical Demo: Read eBooks and Create Visual Summaries in Obsidian]]
 - [[Excalidraw 2.6.3 - Image and PDF cropping made simple.md|Excalidraw 2.6.3 - Image and PDF cropping made simple]]
 - [[Location Based Discount For the Visual Thinking Workshop Until 25 October _excalidraw _obsidian.md|Location Based Discount For the Visual Thinking Workshop Until 25 October]]
@@ -31,10 +35,10 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 ## Q3
 - [[From Simple Marketing for Smart People To Book-on-a-Page and Article with Excalidraw Writing Machine.md|From Simple Marketing for Smart People To Book-on-a-Page and Article with Excalidraw Writing Machine]]
 - [[Excalidraw Obsidian 2.4.0 Feature Walkthrough.md|Excalidraw Obsidian 2.4.0 Feature Walkthrough]]
-- [[Excalidraw Writing Machine_ Generate articles from your Visual Zettelkasten cards in Obsidian.md|Excalidraw Writing Machine: Generate articles from your Visual Zettelkasten cards in Obsidian]]
+- [[Excalidraw Writing Machine - Generate articles from your Visual Zettelkasten cards in Obsidian|Excalidraw Writing Machine: Generate articles from your Visual Zettelkasten cards in Obsidian]]
 - [[Book Review_ Visual Thinking for Information Design.md|Book Review: Visual Thinking for Information Design]]
 - [[Debunking Visual Myths_ What science says and how to leverage it for better PKM.md|Debunking Visual Myths: What science says and how to leverage it for better PKM]]
-- [[Which Obsidian-Excalidraw release channel is the right for you_.md|Which Obsidian-Excalidraw release channel is the right for you?]]
+- [[Excalidraw Plugin Release Strategy|Which Obsidian-Excalidraw release channel is the right for you?]]
 - [[Excalidraw-Obsidian 2.2.10_ Image Fragments.md|Excalidraw-Obsidian 2.2.10: Image Fragments]]
 - [[The Creative Act by Rick Rubin - Visual Book on a Page Summary - Should YOU read it_.md|The Creative Act by Rick Rubin - Visual Book on a Page Summary - Should YOU read it?]]
 
@@ -45,7 +49,7 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 - [[Rethink Writing_ Think Visually, Your Brain is Not Linear.md|Rethink Writing: Think Visually, Your Brain is Not Linear]]
 - [[Excalidraw-Obsidian File Structure_ Breaking change in 2.2.0.md|Excalidraw-Obsidian File Structure: Breaking change in 2.2.0]]
 - [[Book on a Page Summary of Atomic Habits by James Clear.md|Book on a Page Summary of Atomic Habits by James Clear]]
-- [[The Excalidraw-Obsidian Showcase_ 57 key features in just 17 minutes.md|The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes]]
+- [[The Excalidraw-Obsidian Showcasing 57 key features in just 17 minutes|The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes]]
 - [[Diagramming for PKM_ The Sun Ray Transformation Map for preparing to quit your 9-to-5 job.md|Diagramming for PKM: The Sun Ray Transformation Map for preparing to quit your 9-to-5 job]]
 - [[Beyond Words_ The Future of PKM - Exploring 5 Cards from The MindSET Visual Thinking Framework.md|Beyond Words: The Future of PKM - Exploring 5 Cards from The MindSET Visual Thinking Framework]]
 
@@ -58,12 +62,12 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 - [[Why Diagrams Matter in PKM_ A Beginner's Guide.md|Why Diagrams Matter in PKM: A Beginner's Guide]]
 - [[Forcing Function - Can Limitations Make You Limitless___.md|Forcing Function - Can Limitations Make You Limitless???]]
 - [[Excalidraw-Obsidian 2.0.19_ PDF Cropping.md|Excalidraw-Obsidian 2.0.19: PDF Cropping]]
-- [[Excalidraw Scripting_ Daily Quote Illustrations in Obsidian with Templater, Excalidraw and OpenAI.md|Excalidraw Scripting: Daily Quote Illustrations in Obsidian with Templater, Excalidraw and OpenAI]]
+- [[Excalidraw Scripting - Daily Quote Illustrations in Obsidian with Templater, Excalidraw and OpenAI|Excalidraw Scripting: Daily Quote Illustrations in Obsidian with Templater, Excalidraw and OpenAI]]
 - [[Vintage Image Cropping Script|"Vintage" Image Cropping Script]]
 - [[4D Thinking in Obsidian_ Exploring Ali Abdaal's Feel-Good Productivity.md|4D Thinking in Obsidian: Exploring Ali Abdaal's Feel-Good Productivity]]
 - [[The Playful PKM Castle_ A Whirlwind Tour of Zsolt's Visual Thinking World!.md|The Playful PKM Castle: A Whirlwind Tour of Zsolt's Visual Thinking World!]]
 - [[Excalidraw-Obsidian 2.0.15_ Image Cropping, Masking and Metadata.md|Excalidraw-Obsidian 2.0.15: Image Cropping, Masking and Metadata]]
-- [[Excalidraw Script Engine Coding Example_ Building a Gallery View.md|Excalidraw Script Engine Coding Example: Building a Gallery View]]
+- [[Excalidraw Script Engine Coding Example Building a Gallery View|Excalidraw Script Engine Coding Example: Building a Gallery View]]
 
 # 2023
 
@@ -147,7 +151,7 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 - [[Excalidraw-Obsidian 1.7.27 - Image editing power tools.md|Excalidraw-Obsidian 1.7.27 - Image editing power tools]]
 - [[The Checklist Manifesto - Book on a Page.md|The Checklist Manifesto - Book on a Page]]
 - [[Excalidraw-Obsidian 1.7.25 - Experimental Dynamic Styling of toolbars and buttons.md|Excalidraw-Obsidian 1.7.25 - Experimental Dynamic Styling of toolbars and buttons]]
-- [[Colorful Second Brain - Part 4_ Scripting Color with Color Master in the Obsidian Excalidraw plugin.md|Colorful Second Brain - Part 4: Scripting Color with Color Master in the Obsidian Excalidraw plugin]]
+- [[Colorful Second Brain - Part 4 - Scripting Color with Color Master in the Obsidian Excalidraw plugin|Colorful Second Brain - Part 4: Scripting Color with Color Master in the Obsidian Excalidraw plugin]]
 - [[Colorful Second Brain - Part 3_ Simple rules for beautiful and reusable sketches.md|Colorful Second Brain - Part 3: Simple rules for beautiful and reusable sketches]]
 - [[Launching the Visual Thinking Workshop.md|Launching the Visual Thinking Workshop]]
 

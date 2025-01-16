@@ -10,7 +10,11 @@ aliases:
   - WIKI/01+Getting+Started/Catalogue+of+Videos
 permalink: wiki/catalogue
 ---
+
+The [[Visual PKM Video Index]] is a more comprehensive overview of all my videos with links to summaries, transcript and more.
+
 ![[Catalogue of Videos.svg]]
+
 
 %%
 # Excalidraw Data

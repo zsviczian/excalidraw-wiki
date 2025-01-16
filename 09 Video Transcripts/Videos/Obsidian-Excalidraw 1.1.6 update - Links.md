@@ -7,6 +7,8 @@
 # Summary
 In this video, the presenter demonstrates a new feature in the Obsidian-Excalidraw integration that allows users to create links to text within their drawings. The functionality improves the usability by enabling the creation of notes or folders directly from the drawing interface. This update enhances the overall visual personal knowledge management (PKM) experience within Obsidian.
 
+![[Excalidraw 1.6.16 Release Notes.svg]]
+
 # Key Takeaways
 - Text in Excalidraw drawings can now be linked directly to notes in Obsidian.
 - There are options to create new files or folders based on selected text links.

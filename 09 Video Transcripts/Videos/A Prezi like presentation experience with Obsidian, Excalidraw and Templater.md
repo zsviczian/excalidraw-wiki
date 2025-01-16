@@ -1,3 +1,7 @@
+⚠️⚠️⚠️ This is an older video. **To learn about presentations in Obsidian-Excalidraw please review [[A detailed walkthrough of the Excalidraw-Obsidian Slideshow 3.0 script]] first.** This video is retained here more as a scripting example.
+
+---
+
 **Created**:: [[2021-09-05 Sunday]]
 **Link**:: https://youtu.be/PhPaRPqDnZ0
 **Duration**:: 5:03

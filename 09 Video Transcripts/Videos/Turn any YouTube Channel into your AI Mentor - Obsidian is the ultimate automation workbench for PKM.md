@@ -1,16 +1,21 @@
 **Created**:: [[2025-01-02 Thursday]]
 **Link**:: https://youtu.be/l0cfhGwaAG8
 **Duration**:: 29:29
+**NotebookLM Training Files**:: Download the NotebookLM training files from [here](https://ko-fi.com/s/e946a094e0)
+
 
 ![Turn any YouTube Channel into your AI Mentor - Obsidian is the ultimate automation workbench for PKM](https://youtu.be/l0cfhGwaAG8)
 
 # Summary
-In this video, Zsolt discusses the challenges of finding specific answers within his extensive collection of videos and documentation on Obsidian and Excalidraw. He presents a solution that leverages Notebook LM, enabling users to turn videos and notes into a dynamic knowledge management tool. The video also introduces a new community resource, aimed at assisting individuals in optimizing their personal knowledge management (PKM) workflows with automation.
+In this video, Zsolt discusses the challenges of finding specific answers within his extensive collection of videos and documentation on Obsidian-Excalidraw. He presents a solution that leverages [NotebookLM](https://notebooklm.google.com/), enabling users to turn videos and notes into a dynamic knowledge management tool. The video introduces a new community resource, aimed at assisting individuals in optimizing their personal knowledge management (PKM) workflows with automation, and includes link and instructions for downloading and installing the Excalidraw training files on NotebookLM, such that anyone can consult NotebookLM with their Excalidraw questions and find answers instantly.
+
+**Quick access timestamp:**
+- [09:51](https://youtu.be/l0cfhGwaAG8?t=591) See the model in action and learn how to [download](https://ko-fi.com/s/e946a094e0) and install the training files for your own use
 
 # Key Takeaways
 - Zsolt emphasizes the importance of effective knowledge management (PKM) tools to find answers quickly within a large volume of content.
 - He introduces Notebook LM as a powerful tool for transforming video transcripts and notes into manageable and interactive resources.
-- The launch of the Technov Visual PKM Community aims to provide support and interaction for users interested in enhancing their PKM practices using Obsidian and automation.
+- The launch of the Techno-Visual PKM Community aims to provide support and interaction for users interested in enhancing their PKM practices using Obsidian and automation.
 
 # Content
 Hey everyone, it's Zsolt here. Happy New Year and welcome to Visual PKM. Today's video is inspired by this problem: even though I have over 250 videos about Obsidian, Excalidraw, and visual PKM on YouTube, and I have over 400 detailed release notes on GitHub about each of the plugin releases, when you have a specific question, it's extremely hard to find the answer. I'm thinking of questions like this one that I receive on Discord, Twitter, YouTube, and email—you name it, I get it all the time. Here’s a typical question: how can I turn on that panel with pens and other functions on the right side of the screen? Of course, the person is referring to this panel right here, and you need to know that you need to enable custom pens in plugin settings, and you need to long-click on scripts in the Obsidian tools panel to pin them here. Then you have the right-hand side panel, which is super handy; I use it a lot. But how can you find the answer to such questions? How can you find out of the 250 videos the one that talks about this? It’s like looking for a needle in a haystack. This is the problem that I'm going to give you a solution for today. [* ](https://youtu.be/l0cfhGwaAG8?t=0)

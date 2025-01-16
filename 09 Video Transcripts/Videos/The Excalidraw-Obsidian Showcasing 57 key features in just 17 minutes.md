@@ -7,6 +7,9 @@
 # Summary
 This video showcases the remarkable capabilities of the Excalidraw tool within the Obsidian environment, emphasizing its role as a revolutionary visual thinking powerhouse. It highlights 57 key features, demonstrating how they can enhance the user's visual knowledge management (PKM) workflow. Through rapid presentations, viewers are guided on how to leverage these features to create beautiful diagrams and streamline their note-taking processes.
 
+# Mindmap
+![[Excalidraw 2 Million Downloads Mega Showcase.svg]]
+
 # Key Takeaways
 - Excalidraw transforms Obsidian into an advanced visual thinking platform capable of creating diagrams, mind maps, and more.
 - The tool includes features like optical character recognition (OCR), customizable templates, and various linking options for comprehensive knowledge management.

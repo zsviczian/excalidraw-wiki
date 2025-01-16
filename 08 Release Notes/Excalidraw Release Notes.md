@@ -7,6 +7,9 @@ Download the release notes packaged as a single file from [Ko-Fi](https://ko-fi.
 
 ![Turn any YouTube Channel into your AI Mentor - Obsidian is the ultimate automation workbench for PKM](https://youtu.be/l0cfhGwaAG8)
 
+## Please review release notes regularly
+You can read/watch more about the release notes feature in [[Obsidian-Excalidraw 1.1.6 update - Links|Obsidian-Excalidraw 1.1.6 update]].
+
 ## Releases
 
 - [[2.7.4]]

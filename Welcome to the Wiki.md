@@ -20,6 +20,7 @@ Note that the [Obsidian-Excalidraw Plugin](https://github.com/zsviczian/obsidian
 
 ## Getting Started
 
+- Be sure to watch [[Excalidraw 2 Million Downloads Mega Showcase|57 Obsidian-Excalidraw features in 17 Minutes]] it contains the answer to 90% of the frequently asked questions. This is your fastest track to finding out what the plugin can do and how that feature works. The video has timestamps.
 - Head over to [[Wiki Home]] or use search to find answers to your questions.
 
 ## Contributing
