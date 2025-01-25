@@ -12,6 +12,7 @@ You can read/watch more about the release notes feature in [[Obsidian-Excalidraw
 
 ## Releases
 
+- [[2.8.0]]
 - [[2.7.4]]
 - [[2.7.3]]
 - [[2.7.2]]

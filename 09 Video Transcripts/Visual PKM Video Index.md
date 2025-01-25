@@ -12,8 +12,8 @@ Download the transcripts packaged as quarterly files from [Ko-Fi](https://ko-fi.
 # 2025
 
 # Q1
+- [[PDF Export_ Excalidraw Obsidian 2.8.0 Feature Walkthrough.md|PDF Export: Excalidraw Obsidian 2.8.0 Feature Walkthrough]]
 - [[Turn any YouTube Channel into your AI Mentor - Obsidian is the ultimate automation workbench for PKM.md]]
-
 # 2024
 
 ## Q4

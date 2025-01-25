@@ -1,7 +1,7 @@
 ---
 aliases:
   - WIKI/05+Examples+and+Templates/Hybrid+markdown-excalidraw+note+template
-permalink: wiki/examples
+permalink: wiki/hybrid-notes
 ---
 %% <%* throw(new Error("Cannibalization")); %> %%
 This is an advanced version of the template Nicole uses in her video:  
