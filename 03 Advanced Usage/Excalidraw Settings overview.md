@@ -792,6 +792,10 @@ You can set the location of the CJK fonts folder here. For example, you may choo
 
 Leave empty if you don't want a default formula. You can add default formatting here such as `\color{white}`.
 
+##### LaTeX preamble file (CasE SEnSiTivE!)
+
+Full filepath to the preamble file, leave empty for default. If the file doesn't exist this option will be ignored.<br>**Important:** Requires obsidian reload after change to take effect!
+
 ##### Display type (✏️) for excalidraw.md files in File Explorer
 
 Excalidraw files will receive an indicator using the emoji or text defined in the next setting.
