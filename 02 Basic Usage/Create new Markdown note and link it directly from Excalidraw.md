@@ -4,7 +4,7 @@ tags:
   - excalidraw
 excalidraw-autoexport: svg
 excalidraw-open-md: true
-
+permalink: wiki/Create-new-note
 ---
 
 # [[Create new Markdown note and link it directly from Excalidraw]]

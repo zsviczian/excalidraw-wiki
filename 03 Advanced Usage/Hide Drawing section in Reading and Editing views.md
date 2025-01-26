@@ -4,10 +4,14 @@ tags:
   - excalidraw
 excalidraw-autoexport: svg
 excalidraw-open-md: true
-
+permalink: wiki/hide-excalidraw-section
 ---
 
 # [[Hide Drawing section in Reading and Editing views]]
+
+⚠️ When you hide Excalidraw Data Obsidian will not index the block references in Text Elements. If you want to reference text elements in other notes or drawings you should not hide Excalidraw Data with a Comment. ⚠️
+
+For a more in-depth look at hybrid markdown and Excalidraw notes read [[Hybrid markdown-excalidraw note template]]
 
 You can hide all the remaining file after the `%%` comment by enabling the [[Excalidraw Settings overview#Fade out Excalidraw markup|Fade out Excalidraw markup]] option as explained in [this](https://github.com/zsviczian/obsidian-excalidraw-plugin/issues/2053) issue.
 This will grey out the section in editing mode and hide it completely in live mode.
